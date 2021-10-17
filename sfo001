@@ -1,3 +1,5 @@
 header:SFO-001 | Старый телевизор
-desc:NONE NOT NOW
+stdesc:
+NONE NOT NOW
+enddesc;
 class: Safe

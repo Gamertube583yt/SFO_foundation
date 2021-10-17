@@ -1,5 +1,3 @@
 header:SFO-001 | Старый телевизор
-stdesc:
-NONE NOT NOW
-enddesc;
+stdesc:Наверное, это описание объекта!enddesc;
 class: Safe

@@ -1,4 +1,4 @@
-header:SFO-000 | Неизвестно
-stdesc:Распространение любой информации о <me> строго запрещено и карается смертью всех лиц!enddesc;
-class:Dangerous
-stcont:Информация о данном объекте отсутствует.endcont;
+header:
+stdesc:enddesc;
+class:
+stcont:endcont;

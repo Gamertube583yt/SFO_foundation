@@ -1,4 +1,4 @@
 header:SFO-001 | Старый телевизор
-stdesc:<me> это старый телевизор, который...enddesc;
+stdesc:<me> это старый телевизор...enddesc;
 class: Safe
 stcont:Условия содержания <name> неизвестны...endcont;
